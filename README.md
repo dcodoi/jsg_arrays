@@ -6,3 +6,10 @@ ArrayList is a part of the collection framework. It is present in the java.util 
 LinkedList is a linear data structure where the elements are not stored in contiguous locations and every element is a separate object with a data part and address part. The elements are linked using pointers and addresses. Each element is known as a node. Due to the dynamicity and ease of insertions and deletions, they are preferred over the arrays.
 
 ![image](https://user-images.githubusercontent.com/102018728/162136127-a1bfe166-01b2-4263-8464-fb8defb99014.png)
+
+
+ Autoboxing refers to the conversion of a primitive value into an object of the corresponding wrapper class is called autoboxing.
+ 
+ Unboxing on the other hand refers to converting an object of a wrapper type to its corresponding primitive value.
+ 
+ ![image](https://user-images.githubusercontent.com/102018728/162136523-73a67a8a-40fe-4210-b741-79a4ecdabffc.png)
